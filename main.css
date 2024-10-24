@@ -1,0 +1,10 @@
+*{
+    font-family: "Arima", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.form-control::placeholder {
+    color: rgb(211, 196, 209);
+}
